@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://programfestivalbjb.my.id/static/css/main.2a9c7d0d.css",
-    "main.js": "https://programfestivalbjb.my.id/static/js/main.7ad6079d.js",
+    "main.js": "https://programfestivalbjb.my.id/static/js/main.391c24dd.js",
     "static/js/453.c623a435.chunk.js": "https://programfestivalbjb.my.id/static/js/453.c623a435.chunk.js",
     "static/media/bottom_bar.png": "https://programfestivalbjb.my.id/static/media/bottom_bar.64788944d80387b5172e.png",
     "static/media/card.png": "https://programfestivalbjb.my.id/static/media/card.996e55c6a0d6b56a8418.png",
     "static/media/img1.png": "https://programfestivalbjb.my.id/static/media/img1.660f194ea50e937b0883.png",
     "index.html": "https://programfestivalbjb.my.id/index.html",
     "main.2a9c7d0d.css.map": "https://programfestivalbjb.my.id/static/css/main.2a9c7d0d.css.map",
-    "main.7ad6079d.js.map": "https://programfestivalbjb.my.id/static/js/main.7ad6079d.js.map",
+    "main.391c24dd.js.map": "https://programfestivalbjb.my.id/static/js/main.391c24dd.js.map",
     "453.c623a435.chunk.js.map": "https://programfestivalbjb.my.id/static/js/453.c623a435.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a9c7d0d.css",
-    "static/js/main.7ad6079d.js"
+    "static/js/main.391c24dd.js"
   ]
 }
